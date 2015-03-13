@@ -1,0 +1,1 @@
+This is a Java application designed to walk a SCAP XML file and print all relevant nodes
